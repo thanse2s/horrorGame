@@ -1,4 +1,14 @@
-body{
+h1{
   font-style: oblique;
-  font-family: URW Chancery L, cursive,
+  font-family: Papyrus;
+  font-weight:700;
+  text-align:center;
+}
+
+p{
+  font-style: normal;
+  font-family: Papyrus;
+   font-weight:bold;
+  line-height: 2;
+  text-align:block;
 }
