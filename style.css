@@ -1,14 +1,31 @@
-h1{
-  font-style: oblique;
-  font-family: Papyrus;
-  font-weight:700;
-  text-align:center;
+#story-title{
+  	margin-top: 20px;
+  
+    font-style: oblique;
+    font-family: Papyrus;
+    font-weight:700;
+    text-align:center;
+  
 }
-
-p{
+#story-text{
+  margin-top: 30px;
+  
   font-style: normal;
   font-family: Papyrus;
-   font-weight:bold;
+  font-weight:bold;
   line-height: 2;
   text-align:block;
+}
+
+hr{
+  border:0;
+  align:center;
+  height: 10px;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0,1),
+    rgba(0,0,0,0),
+    rgba(0,0,0,1),
+    rgba(0,0,0,0),
+    rgba(0,0,0,1))
 }
