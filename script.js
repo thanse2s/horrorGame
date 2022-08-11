@@ -1,3 +1,3 @@
-function showAlert(){
+showAlert  = () => {
   alert("GAME START");
 }
