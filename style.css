@@ -5,6 +5,7 @@
     font-family: Papyrus;
     font-weight:700;
     text-align:center;
+    color:white;
   
 }
 #story-text{
@@ -15,6 +16,7 @@
   font-weight:bold;
   line-height: 2;
   text-align:block;
+  color:white;
 }
 
 hr{
@@ -31,6 +33,6 @@ hr{
 }
 
 body {
-  bacground: url("image/Neues Projekt(1).png")
+  background: url("image/Neues Projekt(1).png")
 
 }
